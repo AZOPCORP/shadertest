@@ -589,6 +589,11 @@ var WebGLImageFilter = window.WebGLImageFilter = function() {
 	
 	
 	
+	//The idea is to create more fx to this library with an inteligible method to grab shaders from shader toy
+	//
+	// 
+	
+	
 	_filter.dither = function(){
 		
 		
